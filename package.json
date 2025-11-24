@@ -1,0 +1,14 @@
+{
+  "name": "web-crypto-e2e-chat-demo",
+  "version": "1.0.0",
+  "description": "Demo chat ma hoa end-to-end bang Web Crypto API + WebSocket",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
+
+
